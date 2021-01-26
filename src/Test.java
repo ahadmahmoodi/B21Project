@@ -5,7 +5,7 @@ public class Test {
         System.out.println("Just for test");
 
         System.out.println("comment");
-        System.out.pringln("Ok");
+        System.out.println("Ok");
          
     }
 }
